@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\bin\Debug\calculadorNET_Pregunta2.exe.config
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\bin\Debug\calculadorNET_Pregunta2.exe
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\bin\Debug\calculadorNET_Pregunta2.pdb
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\obj\Debug\calculadorNET_Pregunta2.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\obj\Debug\calculadorNET_Pregunta2.Form1.resources
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\obj\Debug\calculadorNET_Pregunta2.Properties.Resources.resources
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\obj\Debug\calculadorNET_Pregunta2.csproj.GenerateResource.cache
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\obj\Debug\calculadorNET_Pregunta2.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\obj\Debug\calculadorNET_Pregunta2.exe
+C:\Users\Rick\source\repos\calculadorNET_Pregunta2\calculadorNET_Pregunta2\obj\Debug\calculadorNET_Pregunta2.pdb
